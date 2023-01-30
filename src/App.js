@@ -1,22 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import {questions} from './questions.js';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      
+      {questions.map((question) => {
+        return (
+          <div key={question.id}>
+            <h1>{question.question}</h1>
+            <ul>
+              {question.answers.map((answer) => {
+                return (
+                  <li>
+                    <input type="radio" name={question.id} value={answer} />
+                    {answer}
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        );
+      })}    
       </header>
     </div>
   );
