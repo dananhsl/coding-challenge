@@ -30,7 +30,7 @@ export const questions =
         "question": "Langfristige Pläne geben mir das Gefühl,",
         "answers":[ 
             "in einer Zwangsjacke zu stecken.",
-            "in einer Zwangsjacke zu stecken."
+            "alles im Griff zu haben."
     ],
         "scores": [
         "W", 
