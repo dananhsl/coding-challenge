@@ -1,11 +1,17 @@
+import {Routes, Route} from 'react-router-dom';
+
 import './App.css';
 import Form from './pages/form.js';
+import Result from './pages/result.js';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Form />
+			<Routes>
+				<Route path="/" element={<Form />} />
+				<Route path="/result" element={<Result />} />
+      </Routes>
       </header>
     </div>
   );
