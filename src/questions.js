@@ -9,8 +9,8 @@ export const questions =
         "wenn man „das Kind beim Namen nennt."
     ],
       "scores": [
-      "", 
-      ""
+      "F", 
+      "D"
     ]
     },
     {
@@ -21,8 +21,8 @@ export const questions =
         "Ich rede manchmal schneller als ich denke."
     ],
       "scores": [
-      "", 
-      ""
+      "I", 
+      "E"
     ]
     },
     {
@@ -33,8 +33,8 @@ export const questions =
             "in einer Zwangsjacke zu stecken."
     ],
         "scores": [
-        "", 
-        ""
+        "W", 
+        "B"
     ]
       },
       {
@@ -45,8 +45,8 @@ export const questions =
             "machen mir meistens Spaß."
     ],
         "scores": [
-        "", 
-        ""
+        "In", 
+        "S"
     ]
       },
       {
@@ -57,8 +57,8 @@ export const questions =
             "auf Harmonie und Ausgleich bedacht zu sein."
     ],
         "scores": [
-            "", 
-            ""
+            "D", 
+            "F"
         ]
       },
       {
@@ -69,8 +69,8 @@ export const questions =
             "Erst die Arbeit, dann das Vergnügen."
         ],
         "scores": [
-            "", 
-            ""
+            "W", 
+            "B"
         ]
       },
       {
@@ -81,8 +81,8 @@ export const questions =
             "meinen Verstand."
         ],
         "scores": [
-            "", 
-            ""
+            "F", 
+            "D"
         ]
       },
       {
@@ -93,8 +93,8 @@ export const questions =
             "tue ich dies eher „Pi mal Daumen“."
         ],
         "scores": [
-            "",
-            ""
+            "S",
+            "In"
         ]
       },
       {
@@ -105,8 +105,8 @@ export const questions =
             "Idealisten."
         ],
         "scores": [
-            "", 
-            ""
+            "S", 
+            "In"
         ]
       },
       {
@@ -117,8 +117,8 @@ export const questions =
           "Bei mir herrscht eher „kreatives Chaos\"."
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -129,8 +129,8 @@ export const questions =
           "Taktgefühl."
         ],
         "scores": [
-          "",
-          ""
+          "D",
+          "F"
         ]
       },
       {
@@ -141,8 +141,8 @@ export const questions =
           "flexibel auf Unerwartetes zu reagieren"
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -153,8 +153,8 @@ export const questions =
           "rede ich gern und viel."
         ],
         "scores": [
-          "",
-          ""
+          "I",
+          "E"
         ]
       },
       {
@@ -165,8 +165,8 @@ export const questions =
           "trage ich mein Herz auf der Zunge."
         ],
         "scores": [
-          "",
-          ""
+          "I",
+          "E"
         ]
       },
       {
@@ -177,8 +177,8 @@ export const questions =
           "Ich würde mich eher als Kopfmenschen bezeichnen."
         ],
         "scores": [
-          "",
-          ""
+          "F",
+          "D"
         ]
       },
       {
@@ -189,8 +189,8 @@ export const questions =
           "bin ich noch bei den Vorbereitungen, während die Ersten eintreffen."
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -201,8 +201,8 @@ export const questions =
           "Ich habe eine schlechte Wahrnehmung für Details."
         ],
         "scores": [
-          "",
-          ""
+          "S",
+          "In"
         ]
       },
       {
@@ -213,8 +213,8 @@ export const questions =
           "Ich lasse das Wochenende am liebsten auf mich zukommen."
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -225,8 +225,8 @@ export const questions =
           "wenn ich alleine bin."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -237,8 +237,8 @@ export const questions =
           "einen bestehenden Entwurf so lange zu überarbeiten, bis er funktioniert."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       },
       {
@@ -249,8 +249,8 @@ export const questions =
           "wenn Leute unflexibel sind."
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -261,8 +261,8 @@ export const questions =
           "Andere können nicht so leicht erkennen, was in mir vorgeht."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -273,8 +273,8 @@ export const questions =
           "Meistens habe ich eine gute Zeiteinteilung."
         ],
         "scores": [
-          "",
-          ""
+          "W",
+          "B"
         ]
       },
       {
@@ -285,8 +285,8 @@ export const questions =
           "Ich habe eher eine praktische Ader."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       },
       {
@@ -297,8 +297,8 @@ export const questions =
           "eher subjektiv/gefühlsmäßig."
         ],
         "scores": [
-          "",
-          ""
+          "D",
+          "F"
         ]
       },
       {
@@ -309,8 +309,8 @@ export const questions =
           "finde ich das oft ermüdend und anstrengend."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -321,8 +321,8 @@ export const questions =
           "bei der rationales Handeln und analytisches Denken gefragt sind."
         ],
         "scores": [
-          "",
-          ""
+          "F",
+          "D"
         ]
       },
       {
@@ -333,8 +333,8 @@ export const questions =
           "auf meine Intuition."
         ],
         "scores": [
-          "",
-          ""
+          "S",
+          "In"
         ]
       },
       {
@@ -345,8 +345,8 @@ export const questions =
           "brauche ich zwischendurch Zeit für mich allein."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -357,8 +357,8 @@ export const questions =
           "Ich überlege meist länger, bevor ich meine Gedanken und Gefühle äußere."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -369,8 +369,8 @@ export const questions =
           "wenn sich jemand präzise ausdrückt und schnell zum Punkt kommt."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       },
       {
@@ -381,8 +381,8 @@ export const questions =
           "in dem es auf Genauigkeit und Faktenwissen ankommt."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       },
       {
@@ -393,8 +393,8 @@ export const questions =
           "Ich bin oft einer der letzten, der merkt, wenn es zwischen zweien gefunkt hat."
         ],
         "scores": [
-          "",
-          ""
+          "F",
+          "D"
         ]
       },
       {
@@ -405,8 +405,8 @@ export const questions =
           "Unangenehme Dinge schiebe ich häufig auf die lange Bank."
         ],
         "scores": [
-          "",
-          ""
+          "B",
+          "W"
         ]
       },
       {
@@ -417,8 +417,8 @@ export const questions =
           "spreche ich gern fremde Menschen an."
         ],
         "scores": [
-          "",
-          ""
+          "I",
+          "E"
         ]
       },
       {
@@ -429,8 +429,8 @@ export const questions =
           "plane ich die einzelnen Schritte recht genau."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       },
       {
@@ -441,8 +441,8 @@ export const questions =
           "Ich bin eher nicht so schnell in Gefühlswallungen zu versetzen."
         ],
         "scores": [
-          "",
-          ""
+          "E",
+          "I"
         ]
       },
       {
@@ -453,8 +453,8 @@ export const questions =
           "im Vorfeld, wenn ich weiß, dass mir noch genügend Zeit bleibt."
         ],
         "scores": [
-          "",
-          ""
+          "W",
+          "B"
         ]
       },
       {
@@ -465,8 +465,8 @@ export const questions =
           "mich über zwischenmenschliche Beziehungen zu unterhalten."
         ],
         "scores": [
-          "",
-          ""
+          "D",
+          "F"
         ]
       },
       {
@@ -477,8 +477,8 @@ export const questions =
           "Ich wende mich lieber handfesten Dingen zu."
         ],
         "scores": [
-          "",
-          ""
+          "In",
+          "S"
         ]
       }
       
