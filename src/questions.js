@@ -6,7 +6,7 @@ export const questions =
       "question": "Es liegt mir eher,",
       "answers":[ 
         "wenn man mir etwas durch die Blume sagt.",
-        "wenn man „das Kind beim Namen nennt."
+        "wenn man „das Kind beim Namen nennt.“"
     ],
       "scores": [
       "F", 
@@ -45,7 +45,7 @@ export const questions =
             "machen mir meistens Spaß."
     ],
         "scores": [
-        "In", 
+        "N", 
         "S"
     ]
       },
@@ -94,7 +94,7 @@ export const questions =
         ],
         "scores": [
             "S",
-            "In"
+            "N"
         ]
       },
       {
@@ -106,7 +106,7 @@ export const questions =
         ],
         "scores": [
             "S", 
-            "In"
+            "N"
         ]
       },
       {
@@ -202,7 +202,7 @@ export const questions =
         ],
         "scores": [
           "S",
-          "In"
+          "N"
         ]
       },
       {
@@ -237,7 +237,7 @@ export const questions =
           "einen bestehenden Entwurf so lange zu überarbeiten, bis er funktioniert."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       },
@@ -285,7 +285,7 @@ export const questions =
           "Ich habe eher eine praktische Ader."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       },
@@ -334,7 +334,7 @@ export const questions =
         ],
         "scores": [
           "S",
-          "In"
+          "N"
         ]
       },
       {
@@ -369,7 +369,7 @@ export const questions =
           "wenn sich jemand präzise ausdrückt und schnell zum Punkt kommt."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       },
@@ -381,7 +381,7 @@ export const questions =
           "in dem es auf Genauigkeit und Faktenwissen ankommt."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       },
@@ -429,7 +429,7 @@ export const questions =
           "plane ich die einzelnen Schritte recht genau."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       },
@@ -477,7 +477,7 @@ export const questions =
           "Ich wende mich lieber handfesten Dingen zu."
         ],
         "scores": [
-          "In",
+          "N",
           "S"
         ]
       }
