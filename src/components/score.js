@@ -1,17 +1,17 @@
 import useStore from "../hooks/useStore";
-import {questions} from '../questions.js';
+import { questions } from '../questions.js';
 
-export default function Score () {
+export default function Score() {
     const answers = useStore(state => state.getAnswers());
     var scores = {
-        "E" : 0,
-        "I" : 0,
-        "N" : 0,
-        "S" : 0,
-        "F" : 0,
-        "D" : 0,
-        "B" : 0,
-        "W" : 0,
+        "E": 0,
+        "I": 0,
+        "N": 0,
+        "S": 0,
+        "F": 0,
+        "D": 0,
+        "B": 0,
+        "W": 0,
     };
 
     answers.forEach((answer) => {

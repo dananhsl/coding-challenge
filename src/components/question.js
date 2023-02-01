@@ -8,11 +8,12 @@ export default function Question (props) {
     return (
             <section className="question-container">
                 <h1>{`${props.id}. ${props.question}`}</h1>            
-                {props.answers.map((answer) => {
+                {props.answers.map((answer, index) => {
                     return (
-                        <p>
+                        <p key={index}>
                             <input 
                                 type="radio" 
+                                id={answer}
                                 name={props.id} 
                                 value={answer} 
                                 defaultChecked={
@@ -20,8 +21,10 @@ export default function Question (props) {
                                 }
                                 onChange={() => setAnswers(answer, props.id)} 
                             
-                            />
+                            /><label htmlFor={answer}>
+
                             {answer}
+                            </label>
                         </p>
                     );
                 })}       
