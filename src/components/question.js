@@ -6,7 +6,7 @@ export default function Question (props) {
     const getAnswers = useStore(state => state.getAnswers)
 
     return (
-            <section className="question-container">
+            <section data-testid="question-container" className="question-container">
                 <h1>{`${props.id}. ${props.question}`}</h1>            
                 {props.answers.map((answer, index) => {
                     return (
@@ -22,7 +22,6 @@ export default function Question (props) {
                                 onChange={() => setAnswers(answer, props.id)} 
                             
                             /><label htmlFor={answer}>
-
                             {answer}
                             </label>
                         </p>

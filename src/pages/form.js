@@ -14,7 +14,6 @@ export default function Form () {
                 
                     {questions.map(({id, question, answers}) => (
                         <Question
-                        className='question-container'
                         key={id}
                         id={id}
                         question={question}
