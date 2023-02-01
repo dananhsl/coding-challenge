@@ -4,6 +4,11 @@ import {persist, createJSONStorage} from 'zustand/middleware';
 const useStore = create(
     persist(
       (set, get) => ({
+        theme: 'dark',
+
+        setTheme () {
+            set({theme: get().theme === 'dark' ? 'light' : 'dark'});
+        },
         answers: [],
         setAnswers (answer, id) { 
             var curr = {id: id, answer: answer};

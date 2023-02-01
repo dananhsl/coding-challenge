@@ -1,6 +1,6 @@
 import {Routes, Route} from 'react-router-dom';
 
-import './App.css';
+import './styles.css';
 import Form from './pages/form.js';
 import Result from './pages/result.js';
 
